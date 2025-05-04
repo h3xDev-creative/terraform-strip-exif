@@ -42,7 +42,7 @@ This project will automatically:
 ### 1. Clone this repository 📥
 
 ```bash
-git clone https://github.com/yourusername/aws-exif-cleaner-lambda.git
+git clone https://github.com/h3xDev-creative/aws-exif-cleaner-lambda.git
 cd aws-exif-cleaner-lambda
 ```
 
